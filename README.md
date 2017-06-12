@@ -1,5 +1,7 @@
 # behavioral-cloning-deep-learning
-Train a simulated car to drive using behavioral cloning in keras
+Train a simulated car to drive using behavioral cloning in keras:
+
+[![Behavioral cloning](https://img.youtube.com/vi/ZhDZ16ReC_8/0.jpg)](https://www.youtube.com/watch?v=ZhDZ16ReC_8 "Behavioral cloning")
 
 ## Keywords: Behavioral Cloning, Keras, Deep learning, autonomous car
 
