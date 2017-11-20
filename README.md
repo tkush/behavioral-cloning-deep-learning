@@ -6,15 +6,15 @@ Train a simulated car to drive using behavioral cloning in keras:
 ## Keywords: Behavioral Cloning, Keras, Deep learning, autonomous car
 
 The goals of this project are the following:
-· Use a simulator (provided by Udacity) to collect data of good driving behavior. "Good" driving is done manually using the keyboard/mouse
-· Build a convolution neural network in Keras that predicts steering angles from the training images obtained from above
-· Train and validate the model with a training and validation set
-· Test that the model successfully drives around track one without leaving the road
+* Use a simulator (provided by Udacity) to collect data of good driving behavior. "Good" driving is done manually using the keyboard/mouse
+* Build a convolution neural network in Keras that predicts steering angles from the training images obtained from above
+* Train and validate the model with a training and validation set
+* Test that the model successfully drives around track one without leaving the road
 
 This repo includes the following files:
-· model.py containing the script to create and train the model
-· drive.py for driving the car in autonomous mode
-· model.h5 containing a trained convolution neural network
+* model.py containing the script to create and train the model
+* drive.py for driving the car in autonomous mode
+* model.h5 containing a trained convolution neural network
 
 The model.py file is the starting point for loading data and training the network. Other tasks are
 handled in separate files, which are included in the submission. The files show the pipeline I used
